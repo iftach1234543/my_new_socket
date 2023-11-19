@@ -1,3 +1,10 @@
+"""
+Author: iftach
+program name: server.py
+description: a server that is able to return messages to a client according to the messages
+Date: 19/11/23
+"""
+
 import socket
 import datetime
 import random

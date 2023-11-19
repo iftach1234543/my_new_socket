@@ -1,3 +1,11 @@
+"""
+Author: iftach
+program name: client.py
+description: a client that is able to send messages to a server
+Date: 19/11/23
+"""
+
+
 import socket
 import logging
 import os
